@@ -21,7 +21,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=thaviru-DD&show_icons=true&count_private=true&theme=great-gatsby" alt="GitHub Stats" />
+        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaviru-DD&theme=great-gatsby&layout=compact" alt="Top Langs" />
       </div>
