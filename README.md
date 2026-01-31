@@ -23,6 +23,7 @@
       <div align="center">
         <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
         <br/>
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaviru-DD&theme=great-gatsby&layout=compact" alt="Top Langs" />
       </div>
     </td>
