@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Thaviru De Silva</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thaviru-dd&label=Profile%20views&color=0e75b6&style=flat" alt="thaviru-dd" /> </p>
 
