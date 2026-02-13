@@ -28,7 +28,9 @@
         <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
         <br/>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaviru-DD&theme=great-gatsby&layout=compact" alt="Top Langs" />
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+        </div>
       </div>
     </td>
   </tr>
